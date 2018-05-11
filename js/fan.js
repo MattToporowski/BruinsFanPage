@@ -1,4 +1,4 @@
-var numOfPhotos = 4;
+var numOfPhotos = 8;
 var currentPic = 0;
 
 
